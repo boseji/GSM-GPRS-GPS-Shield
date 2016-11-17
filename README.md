@@ -44,4 +44,5 @@ As well as, but not limited to, the following individuals:
  - [@MarcoMartines](https://github.com/MarcoMartines)
  - [@madmaze](https://github.com/madmaze)
  - commiters from google code: https://code.google.com/p/gsm-shield-arduino/people/list
+ - [@boseji](https://github.com/boseji) Fixed the memory overflow Bug and added Date-stamp GetSMS function
 names listed in no particular order.
